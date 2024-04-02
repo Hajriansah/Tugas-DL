@@ -2,5 +2,5 @@
 
 Kelompok 1
 
-Hajriansah_F55121046
-Maftuh Ahnan Saing_F551210
+- Hajriansah_F55121046
+- Maftuh Ahnan Saing_F55121093
